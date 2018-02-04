@@ -10,7 +10,7 @@ title:               Ivanton
 #tagline:             'Ivanton's website
 description:         Ivanton's blog...
 url: https://Ivantoner.github.io/blog
-baseurl: "/lanyon-plus"
+baseurl: "/blog"
 urlimg: https://Ivantoner.github.io/blog/images/
 markdown: kramdown
 paginate: 5
@@ -56,8 +56,8 @@ owner:
   tumblr:  
   google_plus:    https://plus.google.com/+foo
   # orcid and google scholar IDs are different than standard username.
-  orcid: xyz123abc
-  gscholar: xyz123abc
+  orcid: Ivanton
+  gscholar: Ivanton
 
 ## sidebar links:
 # For external links add external: true
@@ -84,17 +84,17 @@ links:
     url: /feed.xml
 
 # Google Custom Search:
-#google_search: xyz123abc
+#google_search: Ivanton
 
 # Twitter stream widget:
-# Replace xyz123abc with your twitter widget id from https://twitter.com/settings/widgets
-#twitter_widget_id: xyz123abc
+# Replace Ivanton with your twitter widget id from https://twitter.com/settings/widgets
+#twitter_widget_id: Ivanton
 
 # Add disqus username for Disqus comment board:
 disqus_shortname: foo
 
 # Analytics and webmaster tools stuff goes here
-#google_analytics:   xyz123abc
+#google_analytics:   Ivanton
 
 #### For dummy website only - remove if you wish ####
 github_repo: https://github.com/Ivantoner/blog
