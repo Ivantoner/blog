@@ -1,11 +1,11 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of foo boo
+title: Personal Homepage of Ivanton
 description: "Blogging on ...."
 ---
 
-## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
+## [Ivantoner](https://ivantoner.github.io/blog/)
 
 Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
 
